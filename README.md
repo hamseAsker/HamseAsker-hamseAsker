@@ -72,7 +72,7 @@
 
   <section class="about">
     <h2>About Me</h2>
-    <p>I love building cute, clean websites with HTML, CSS, and JavaScript. Always learning and improving 🌈</p>
+    <p>I love building cute, clean websites with HTML, CSS, and JavaScript. Always learning and improving </p>
   </section>
 
   <section class="skills">
